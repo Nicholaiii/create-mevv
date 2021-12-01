@@ -1,0 +1,34 @@
+{
+  "name": "create-mevv",
+  "version": "0.1.0-alpha",
+  "description": "Init mevv stack with npm",
+  "main": "index.js",
+  "module": "main.js",
+  "bin": {
+    "create-mevv": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholaiii/create-mevv.git"
+  },
+  "keywords": [
+    "mevv",
+    "vue",
+    "vue3",
+    "vite",
+    "mongoose",
+    "express"
+  ],
+  "author": "Nicholai Nissen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicholaiii/create-mevv/issues"
+  },
+  "homepage": "https://github.com/Nicholaiii/create-mevv#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
